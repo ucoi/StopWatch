@@ -36,9 +36,18 @@ body{
 .start-button{
     background-color: green;
 }
+.start-button:hover{
+    background-color: darkgreen;
+}
 .stop-button{
     background-color: red;
 }
+.stop-button:hover{
+    background-color: darkred;
+}
 .reset-button{
     background-color: blue;
+}
+.reset-button:hover{
+    background-color: darkblue;
 }
